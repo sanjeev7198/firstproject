@@ -21,12 +21,16 @@
   
   .user-item__content {
     padding: 0;
+    margin: 8px;
   }
   
   .user-item__image {
     width: 4rem;
     height: 4rem;
     margin-right: 1rem;
+  }
+  .user-item__info{
+    margin: 0 0.5rem;
   }
   
   .user-item__info h2 {
